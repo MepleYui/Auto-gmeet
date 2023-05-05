@@ -8,7 +8,7 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe %s"
 
 send_to_discord = True # /- Set it to either True or False -\
-webhookurl = 'https://discord.com/api/webhooks/1038313622805434458/-SXHr_4scUkMUpKjlW5ts3XtDB0tBGjhZjR6-Y8LussdFlLIJaAYha3kN8UeNdx_IUX6' # /- discord webhook url -\
+webhookurl = 'https://discord.com/api/webhooks/' # /- discord webhook url -\
 pinguser = True # /- pings user/everyone -\
 discord_userid = '788201404157132830' # /- Set it to user's discord id or everyone/here (no need to include the "@") -\
 
